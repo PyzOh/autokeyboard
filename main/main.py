@@ -1,1 +1,1 @@
-from pynput
+from pynput.keyboard import Key, Controler
